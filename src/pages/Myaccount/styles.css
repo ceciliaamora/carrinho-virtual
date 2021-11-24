@@ -1,0 +1,12 @@
+.page-myaccount {
+  width: 94%;
+  margin: auto;
+}
+
+.MuiFormControl-root, .hr{
+  margin-bottom: 20px !important;
+}
+
+.page-myaccount {
+  text-align:center;
+}
